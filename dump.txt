@@ -1,0 +1,35 @@
+conda env create --file environment.yaml
+
+
+
+
+
+conda install pygeos --channel conda-forge
+
+conda install pygeos pandas fiona shapely pyproj rtree numpy psycopg2 GeoAlchemy2 geopy matplotlib mapclassify geopandas jupyter notebook
+
+conda install pandas fiona shapely pyproj rtree numpy psycopg2 GeoAlchemy2 geopy matplotlib mapclassify geopandas
+
+conda install pandas fiona shapely pyproj rtree numpy psycopg2 GeoAlchemy2 matplotlib mapclassify geopandas jupyter notebook
+
+conda install numpy psycopg2 GeoAlchemy2 geopy matplotlib mapclassify geopandas
+
+
+conda install GeoAlchemy2
+
+python -m ipykernel install --user --name GEOSPA --display-name "GEOSPA" 
+
+conda install matplotlib mapclassify geopandas
+
+
+
+
+
+conda install pyproj rtree numpy psycopg2
+
+
+
+conda install geopy matplotlib mapclassify geopandas
+
+
+conda install matplotlib mapclassify geopandas
