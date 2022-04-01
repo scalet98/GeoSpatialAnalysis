@@ -1,2 +1,5 @@
+.gitignore/
 dump.txt/
 input/
+99_GIS_TEST_DB/MHW/
+99_GIS_TEST_DB/00_Papers/
